@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyResume</string>
+    <string name="title">About Me</string>
 </resources>
